@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <contributor
+        name="Important Links"
+        contribution="Links to anything related to The Collection"
+		image=""
+        link="" />
+    <contributor
+        name="[Substratum] The Collection"
+        contribution="The Substratum version of The Collection"
+		image="https://raw.githubusercontent.com/TMWrath/TheCollection/master/Files/imgs/Playstore%20Imgs/Playstore/Icons/Icon_HiRes_Substratum.png"
+        link="https://play.google.com/store/apps/details?id=com.tmwrath.TheCollection.Substratum" />
+    <contributor
+        name="[Standalone] The Collection"
+        contribution="The Standalone version of The Collection"
+		image="https://raw.githubusercontent.com/TMWrath/TheCollection/master/Files/imgs/Playstore%20Imgs/Playstore/Icons/Icon_HiRes_Standalone.png"
+        link="https://play.google.com/store/apps/details?id=com.tmwrath.TheCollection.Standalone" />
+    <contributor
+        name="Telegram Community Chat"
+        contribution="The Community chat for The Collection sit back and chat with others if you have a request ask in there so be carefull some NSFW material may pop up everynow and then so 18+ only till cleaned up."
+		image="https://raw.githubusercontent.com/TMWrath/TheCollection/master/Files/imgs/The_Collection_Community.png"
+        link="https://goo.gl/arzAfs" />
+    <contributor
+        name="Telegram Annoucment Channel"
+        contribution="if you have Telegram and want to keep upto date on my latest additions to the collection or any other information in regards to The Collection Join here."
+		image="https://raw.githubusercontent.com/TMWrath/TheCollection/master/Files/imgs/The_Collection_Channel.png"
+        link="https://t.me/WrathsWalls" />
+
+
+    <contributor
+        name="Themes That Use Walls From The Collection"
+        contribution="(In Edited or Original form)"
+		image=""
+        link="" />
+    <contributor
+        name="[Substratum] Spectrum Theme"
+        contribution="Timber By T.M. Wrath (Under the name Dark Timber"
+		image="https://lh3.googleusercontent.com/MvPhHFem-Vqndr24gePuWRnKSNQcxMAGVHvwE1nsg5fFiLyHfRPuH7m2B6MLebF2Dnax=w300-rw"
+        link="https://goo.gl/sOS2Al" />
+    <contributor
+        name="[Substratum] Luminous Theme"
+        contribution="Timber By T.M. Wrath (Under the name Dark Timber"
+		image="https://lh3.googleusercontent.com/tnwcSgwGiBudA1UTeOhHPeLQkfCKF1EPqoiJacRVkx3AIP8DgREGbOzhqL27i84F-F8Q=w300-rw"
+        link="https://goo.gl/9i92EI" />
+    <contributor
+        name="Sprite Substratum Theme"
+        contribution="Black Waters By T.M. Wrath (Edited to match Sprite Colors and renamed under Wrath)"
+		image="https://lh3.googleusercontent.com/tjik_89X8gm1XSOU-oT8M0usmZi_piseOKH1zeh11j-SC3y3u1x_IO1fV_jfNUg5lNg=w300-rw"
+        link="https://goo.gl/QXDMxZ" />
+
+</resources>

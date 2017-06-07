@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+
+    <!-- ====================================================================================== -->
+    <!-- =================================== THE COLLECTION =================================== -->
+    <!-- ====================================================================================== -->
+
+    <string name="info_artist">The Collection Artists</string>
+
+    <!-- Artist 1 -->
+    <string name="artist_1_name">T.M. Wrath</string>
+
+    <string name="artist_1_description">"I am Wrath and I created The Collection so that it would make it easier for people in the community to acquire my walls at first I hosted them on my google+ I didn't feel like my work was good enough for anything much more than such because mainly I put them there for me to have a keepsake and would never lose them and if anyone liked them they can use them. Well after awhile it became much more of a side hobby I got inspired by the likes of [customworx.] and Paul Clark (from aosip) that I wanted to do something about getting into the scene to provide something back in a way to the community so here is where it began with the help of a few good mates and other from the community the collection was created. At first it was just me and then I added a fellow artist by the name of Lilium, she is a inspiring artist here style ways differs from mine in a good way she has that silent hill feel in her edits and work that I appreciate so I brought her on board. Around this time I contacted one of my idols in this scene [customworx.] he was looking for a way to branch out his arm in the game to help it make it easy for his users to get his works much easier so I made him a offer and i'm honored that he agreed. So me along with multiple artist I present to you The Collection. I hope you all enjoy."</string>
+
+    <!-- Artist 2 -->
+    <string name="artist_2_name">Lilum</string>
+
+    <string name="artist_2_description">My name is Lilum, I deal mostly in editing morbid things but I am getting into customs, My work shall not be redistributed without my say so. I prefer to remain unknown so any social media I have will not be linked to this project. But if you must know a bit about me I am always at my computer creating something there is no down time for what I do because it is what I love, I am honored to be apart of The Collection and I hope you all enjoy my work as much as I do it has been a pleasure to tell you all about me but I must bid you all farewell."</string>
+
+    <!-- Artist 3 -->
+    <string name="artist_3_name">customworx</string>
+
+    <string name="artist_3_description">"I am customworx and I make wallpaper and other gfx stuff since a few years now. I made many theme and ROM related wallpaper and shared them over my G+ community. Actually I share my new stuff over my telegram channel but now it is time to change things. That's why you will get all my latest work for your favourite custom ROM and Substratum theme/s here. I also want to shout out a huge THANK YOU to T.M. Wrath for the team-up and letting me share my work with all of you!"</string>
+
+
+    <string name="info_carnts">Special Thanks</string>
+
+    <!-- Carnt 1 -->
+    <string name="carnt_1_name">David (daveyannihilation) Wilson (Recognized Carnt)</string>
+
+    <string name="carnt_1_description">"App Themer: Allowing The Style Of The App To Fit The Concept"</string>
+
+    <!-- Carnt 2 -->
+    <string name="carnt_2_name">Harsh (MSFJarvisL) Shandilya</string>
+
+    <string name="carnt_2_description">"App Development Consultant: Merged Libraries to be local on the first version of the app before the update to wallboard latest base"</string>
+
+    <!-- Carnt 3 -->
+    <string name="carnt_3_name">Ben (M0rningstar)</string>
+
+    <string name="carnt_3_description">" App Development Consultant: Merged Libraries to be local On The Current Version wallboard (As Of Writing This 1.2.4)"</string>
+
+    <!-- Carnt 4 -->
+    <string name="carnt_4_name">Char G (Recognized Cat)</string>
+
+    <string name="carnt_4_description">"Meow meow meow meow meow meow meow meooow meow meow meow meow mewo emow mew mew emew meow"</string>
+
+
+
+    <!-- Wallpaper json links -->
+
+    <string name="wallpaper_json">https://raw.githubusercontent.com/TMWrath/TheCollection/master/Files/%5BStandalone%5D%20The%20Collection.json</string>
+    <string name="wallpaper_json_2">https://raw.githubusercontent.com/TMWrath/TheCollection/master/Files/%5BStandalone%5D%20The%20Collection.json</string>
+    <string name="wallpaper_json_3">https://raw.githubusercontent.com/TMWrath/TheCollection/master/Files/%5BStandalone%5D%20The%20Collection.json</string>
+
+
+</resources>

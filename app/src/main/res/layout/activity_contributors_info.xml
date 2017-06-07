@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/cardBackground"
+    android:fitsSystemWindows="true">
+
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true"
+        android:orientation="vertical"
+        tools:ignore="MissingPrefix">
+
+
+        <TextView
+            android:id="@+id/info_carnt"
+            fontPath="fonts/Font-Medium.ttf"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/content_margin"
+            android:layout_marginLeft="@dimen/content_margin"
+            android:layout_marginRight="@dimen/content_margin"
+            android:layout_marginStart="@dimen/content_margin"
+            android:layout_marginTop="25dp"
+            android:gravity="center_horizontal"
+            android:text="@string/info_carnts"
+            android:textColor="?android:attr/textColorPrimary"
+
+            android:textSize="@dimen/text_title" />
+
+        <ImageView
+            android:id="@+id/carnt_1_picture"
+            android:layout_width="@dimen/icon_size_medium"
+            android:layout_height="@dimen/icon_size_medium"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="6dp"
+            android:background="@drawable/ic_splash_screen"
+            app:srcCompat="@drawable/ic_carnt_1" />
+
+        <TextView
+            android:id="@+id/carnt_1_name"
+            fontPath="fonts/Font-Medium.ttf"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/content_margin"
+            android:layout_marginLeft="@dimen/content_margin"
+            android:layout_marginRight="@dimen/content_margin"
+            android:layout_marginStart="@dimen/content_margin"
+            android:layout_marginTop="@dimen/content_padding"
+            android:gravity="center_horizontal"
+            android:text="@string/carnt_1_name"
+            android:textColor="?android:attr/textColorPrimary"
+            android:textSize="@dimen/text_content_title" />
+
+        <TextView
+            android:id="@+id/carnt_1_description"
+            fontPath="fonts/Font-Regular.ttf"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/content_margin"
+            android:layout_marginLeft="@dimen/content_margin"
+            android:layout_marginRight="@dimen/content_margin"
+            android:layout_marginStart="@dimen/content_margin"
+            android:layout_marginTop="@dimen/content_padding"
+            android:text="@string/carnt_1_description"
+            android:textAlignment="center"
+            android:textColor="?android:attr/textColorPrimary"
+            android:textSize="@dimen/text_content" />
+
+        <ImageView
+            android:id="@+id/carnt_2_picture"
+            android:layout_width="@dimen/icon_size_medium"
+            android:layout_height="@dimen/icon_size_medium"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="6dp"
+            android:background="@drawable/ic_splash_screen"
+            app:srcCompat="@drawable/ic_carnt_2" />
+
+        <TextView
+            android:id="@+id/carnt_2_name"
+            fontPath="fonts/Font-Medium.ttf"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/content_margin"
+            android:layout_marginLeft="@dimen/content_margin"
+            android:layout_marginRight="@dimen/content_margin"
+            android:layout_marginStart="@dimen/content_margin"
+            android:layout_marginTop="@dimen/content_padding"
+            android:gravity="center_horizontal"
+            android:text="@string/carnt_2_name"
+            android:textColor="?android:attr/textColorPrimary"
+            android:textSize="@dimen/text_content_title" />
+
+        <TextView
+            android:id="@+id/carnt_2_description"
+            fontPath="fonts/Font-Regular.ttf"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/content_margin"
+            android:layout_marginLeft="@dimen/content_margin"
+            android:layout_marginRight="@dimen/content_margin"
+            android:layout_marginStart="@dimen/content_margin"
+            android:layout_marginTop="@dimen/content_padding"
+            android:text="@string/carnt_2_description"
+            android:textAlignment="center"
+            android:textColor="?android:attr/textColorPrimary"
+            android:textSize="@dimen/text_content" />
+
+        <ImageView
+            android:id="@+id/carnt_3_picture"
+            android:layout_width="@dimen/icon_size_medium"
+            android:layout_height="@dimen/icon_size_medium"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="6dp"
+            android:background="@drawable/ic_splash_screen"
+            app:srcCompat="@drawable/ic_carnt_3" />
+
+        <TextView
+            android:id="@+id/carnt_3_name"
+            fontPath="fonts/Font-Medium.ttf"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/content_margin"
+            android:layout_marginLeft="@dimen/content_margin"
+            android:layout_marginRight="@dimen/content_margin"
+            android:layout_marginStart="@dimen/content_margin"
+            android:layout_marginTop="@dimen/content_padding"
+            android:gravity="center_horizontal"
+            android:text="@string/carnt_3_name"
+            android:textColor="?android:attr/textColorPrimary"
+            android:textSize="@dimen/text_content_title" />
+
+
+        <TextView
+            android:id="@+id/carnt_3_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/carnt_3_description"
+            android:textAlignment="center"
+            android:textColor="?android:attr/textColorPrimary" />
+
+        <ImageView
+            android:id="@+id/carnt_4_picture"
+            android:layout_width="@dimen/icon_size_medium"
+            android:layout_height="@dimen/icon_size_medium"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="6dp"
+            android:background="@drawable/ic_splash_screen"
+            app:srcCompat="@drawable/ic_carnt_4" />
+
+        <TextView
+            android:id="@+id/carnt_4_name"
+            fontPath="fonts/Font-Medium.ttf"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/content_margin"
+            android:layout_marginLeft="@dimen/content_margin"
+            android:layout_marginRight="@dimen/content_margin"
+            android:layout_marginStart="@dimen/content_margin"
+            android:layout_marginTop="@dimen/content_padding"
+            android:gravity="center_horizontal"
+            android:text="@string/carnt_4_name"
+            android:textColor="?android:attr/textColorPrimary"
+            android:textSize="@dimen/text_content_title" />
+
+
+        <TextView
+            android:id="@+id/carnt_4_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/carnt_4_description"
+            android:textAlignment="center"
+            android:textColor="?android:attr/textColorPrimary" />
+
+
+    </LinearLayout>
+
+</ScrollView>
